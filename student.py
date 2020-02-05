@@ -4,6 +4,6 @@ class Student():
         self.last_name = last_name
         self.slack_handle = slack_handle
         self.cohort = cohort
-        self.exercises = list()
 
-    
+    def __repr__(self):
+        return f'{self.first_name} {self.last_name} is in {self.cohort}'
