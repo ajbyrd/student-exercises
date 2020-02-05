@@ -16,3 +16,8 @@ cohort20 = Cohort("Evening Cohort 20")
 
 # Creating Students
 
+adam = Student("Adam", "Byrd", "ajbyrd", cohort36)
+sophia = Student("Sophia", "Hoffman", "sophiahoffman", cohort36)
+corri = Student("Corri", "Golden", "corrigolden", cohort37)
+sully = Student("Sullivan", "Pierce", "sullypierce", cohort20)
+
